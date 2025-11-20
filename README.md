@@ -1,5 +1,5 @@
 # Practica 2
-## Manual d'instal·lació d’ownCloud amb virtualització mitjançant IsardVDI 
+## Configuració del sistema de virtualització (IsardVDI)
 En primer pas accedim a la plataforma IsardVDI amb el nostre usuari.
 
 Fem clic a Crear nova màquina virtual i configurem:
