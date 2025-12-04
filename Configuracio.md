@@ -21,3 +21,4 @@ Primer li donem a la carpeta que volem compartir i cliquem en la persona que ten
   ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-04%20122212.png)
   ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-04%20122558.png)
   ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-04%20122924.png)
+Desprès creem el d'editor
