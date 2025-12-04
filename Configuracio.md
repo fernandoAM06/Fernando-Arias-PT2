@@ -20,3 +20,4 @@ Primer li donem a la carpeta que volem compartir i cliquem en la persona que ten
   En primer  creem el rol administrador, li donem al apartat del nostre perfil i despres a Accounts, ja dins cliquem en New account i posem admin en els apartats que ens deixa
   ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-04%20122212.png)
   ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-04%20122558.png)
+  ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-04%20122924.png)
