@@ -43,6 +43,9 @@ En la foto podem veure como cadascu te su rol i solament tenen uns permisos dete
  En primer pas creem tres carpetes
   ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-09%20131825.png)
  
-   En segon pas fe
+   En segon pas creem l'enllaç
+   ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-09%20132110.png)
+
+  I per ultim creem la contrasenya i data de venciment
    ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-09%20130823.png)
 
