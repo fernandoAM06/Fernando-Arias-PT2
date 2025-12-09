@@ -35,5 +35,5 @@ Desprès creem el d'editor que es el mateix però tenim que fer un nou grup i se
 ## 6.Assignació de rols i permisos
 # Configurar permisos per rol
 En primer pas escollim una carpeta i li donem a la persona amb un més per compartir els tres usuaris editor,admin i visualizador
-
+En la foto podem veure como cadascu te su rol i solament tenen uns permisos determinats
  ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-09%20110414.png)
