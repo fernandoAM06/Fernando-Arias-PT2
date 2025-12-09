@@ -40,7 +40,9 @@ En la foto podem veure como cadascu te su rol i solament tenen uns permisos dete
 
  ## 7.Administració d’arxius
  # Organització de carpetes i fitxers:
- En primer pas creem tres carpetes i a cada carpeta creem un enllaç posant tot i cambiants els permisos, ho que tenim que fer dins es posar contarsenya i data de caducitat 
-       ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-09%20131825.png)
+ En primer pas creem tres carpetes
+  ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-09%20131825.png)
+ 
+   En segon pas fe
    ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-09%20130823.png)
 
