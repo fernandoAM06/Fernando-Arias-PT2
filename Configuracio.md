@@ -1,5 +1,5 @@
 ## Funcionament del nexcloud
-# 4. Demostració de funcionament:
+## 4. Demostració de funcionament:
 
 # Pujar archius 
 Ja dins de nextclud ens fiquem a la part d'arxius, i on posa un +New podem seleccionar l'arxiu que volem i guardar-ho 
@@ -15,7 +15,7 @@ Per crear la carpeta tenim que anar al mateiix lloc d'aband i donar-li a new fld
 Primer li donem a la carpeta que volem compartir i cliquem en la persona que tenim
 
 ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-04%20121651.png)
- # 5.Creació d'usuaris
+ ## 5.Creació d'usuaris
   # Crear tres usuaris
   # Documentar el procés
   En primer pas tenim que crear tres usuaris, el primer  es el rol administrador, en segon l'editor i per ultim visualizador
@@ -32,8 +32,8 @@ Desprès creem el d'editor que es el mateix però tenim que fer un nou grup i se
  Aqui tenim totes les contes creades:
  ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-09%20104458.png)
 
-# 6.Assignació de rols i permisos
+## 6.Assignació de rols i permisos
 # Configurar permisos per rol
 En primer pas escollim una carpeta i li donem a la persona amb un més per compartir els tres usuaris editor,admin i visualizador
 
- 
+ ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-09%20110414.png)
