@@ -32,3 +32,8 @@ Desprès creem el d'editor que es el mateix però tenim que fer un nou grup i se
  Aqui tenim totes les contes creades:
  ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-09%20104458.png)
 
+# 6.Assignació de rols i permisos
+# Configurar permisos per rol
+En primer pas escollim una carpeta i li donem a la persona amb un més per compartir els tres usuaris editor,admin i visualizador
+
+ 
