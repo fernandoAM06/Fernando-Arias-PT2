@@ -26,5 +26,4 @@ Desprès creem el d'editor
 
 ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-09%20103340.png)
 ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-09%20103805.png!)
-
-    Para hacer el siguiente pseguimos los mismos pasos del editor
+ Para hacer el siguiente pseguimos los mismos pasos del editor
