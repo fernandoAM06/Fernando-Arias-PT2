@@ -42,3 +42,6 @@ En la foto podem veure como cadascu te su rol i solament tenen uns permisos dete
  # Organització de carpetes i fitxers:
  Per començar creem tres carpetes i a cada carpeta li posem un permis diferent per organitzar tot. Creem l'enllaç i configurem els permisos en al meu cas he posat lectura, despres posem fetxa de caducitat i contrasenya per tenir més seguretat
    ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-09%20130823.png)
+
+ Fem ho mateix pero cambien els permisos 
+ ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-09%20131433.png)
