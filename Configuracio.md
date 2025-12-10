@@ -87,3 +87,6 @@ Des d’un altre dispositiu connectat a la mateixa xarxa:
 Obrir un navegador web.
 
 Escriure a la barra d’adreces el nom del teu domini.
+## Accés a clouds de companys
+
+Per accedir als Nextcloud dels companys, es va activar la compartició federada, permetent afegir usuaris externs amb el format usuari@ip_del_company. També es va habilitar l’emmagatzematge extern mitjançant WebDAV per poder navegar pels fitxers d’altres servidors des del propi Nextcloud.
