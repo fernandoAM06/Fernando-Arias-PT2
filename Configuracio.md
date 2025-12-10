@@ -80,7 +80,7 @@ Afegir la IP de la VM (per exemple 192.168.1.50).
 
 Així Nextcloud permetrà l’accés des de fora de la màquina virtual.
 
-### 4. Accedir des d’un altre ordinador
+### *4. Accedir des d’un altre ordinador*
 
 Des d’un altre dispositiu connectat a la mateixa xarxa:
 
