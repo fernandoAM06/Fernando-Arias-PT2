@@ -49,3 +49,41 @@ En la foto podem veure como cadascu te su rol i solament tenen uns permisos dete
   I per ultim creem la contrasenya i data de venciment
    ![](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Captura%20de%20pantalla%202025-12-09%20130823.png)
 
+ ## 8.Accés des d’una màquina qualsevol de la xarxa
+  # Configuració d'accés remot:
+###  1. Configuració de la xarxa de la màquina virtual
+
+En primer pas a  la configuració de la màquina virtual  s’ha de posar la targeta de xarxa en mode Pont (Bridge).
+Aquest mode fa que la màquina virtual tingui una IP pròpia dins la mateixa xarxa que la resta d’ordinadors.
+
+### 2. Obtenir la IP de la màquina virtual
+
+Dins la màquina virtual:
+
+Anar a Configuració de xarxa del sistema.
+
+Mirar l’adreça IPv4 (per exemple: 192.168.1.50).
+
+Aquesta IP serà la que s’utilitzarà per connectar-se.
+
+### 3. Permetre connexions externes a Nextcloud
+
+Perquè Nextcloud accepti connexions des d’altres dispositius:
+
+Entrar a Nextcloud des de la pròpia màquina virtual.
+
+Anar a Configuració de l’administrador.
+
+Buscar l’opció Dominis de confiança (Trusted domains).
+
+Afegir la IP de la VM (per exemple 192.168.1.50).
+
+Així Nextcloud permetrà l’accés des de fora de la màquina virtual.
+
+### 4. Accedir des d’un altre ordinador
+
+Des d’un altre dispositiu connectat a la mateixa xarxa:
+
+Obrir un navegador web.
+
+Escriure a la barra d’adreces el nom del teu domini.
