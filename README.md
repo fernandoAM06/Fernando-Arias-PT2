@@ -8,3 +8,6 @@ En aquesta practica  consisteix en instal·lar i configurar Nextcloud en una mà
 
 [INSTALLATION.MD](https://github.com/fernandoAM06/Fernando-Arias-PT2/blob/main/Instalacio.md)
 
+## Observacions o problemes trobats durant la pràctica.
+
+Durant la pràctica no he tingut moltes dificultas,però al principi em va costar un a miqueta començar i entendre el treball
