@@ -10,4 +10,4 @@ En aquesta practica  consisteix en instal·lar i configurar Nextcloud en una mà
 
 ## Observacions o problemes trobats durant la pràctica.
 
-Durant la pràctica no he tingut moltes dificultas,però al principi em va costar una miqueta començar i entendre el treball per altre costat m'agradat bastant perquè hem apregut coses noves.
+Durant la pràctica no he tingut moltes dificultas,però al principi em va costar una miqueta començar i entendre el treball, per altre costat m'agradat bastant perquè hem apregut coses noves.
